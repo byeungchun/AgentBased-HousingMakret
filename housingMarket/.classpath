@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-math-2.2.jar" sourcepath="lib/src/commons-math-2.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://commons.apache.org/math/api-2.2/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://commons.apache.org/lang/api-release/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/repast3/asm.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/beanbowl.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/colt.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/geotools_repast.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/ibis.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jakarta-poi.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jep-2.24.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jgap.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jh.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jmf.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/jode-1.1.2-pre1.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/joone.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/JTS.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/junit.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/OpenForecast-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/openmap.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/plot.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/ProActive.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/trove.jar"/>
+	<classpathentry kind="lib" path="lib/repast3/violinstrings-1.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/repast3/repast.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

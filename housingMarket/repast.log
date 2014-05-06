@@ -1,0 +1,13 @@
+Error reading parameter file
+java.io.IOException: Illegally formatted parameter file at line: 2
+Expected '}'
+
+	at uchicago.src.sim.parameter.ParameterReader.parse(Unknown Source)
+	at uchicago.src.sim.parameter.ParameterReader.read(Unknown Source)
+	at uchicago.src.sim.parameter.ParameterReader.<init>(Unknown Source)
+	at uchicago.src.sim.parameter.DefaultParameterSetter.init(Unknown Source)
+	at uchicago.src.sim.parameter.ParameterSetterFactory.createParameterSetter(Unknown Source)
+	at uchicago.src.sim.engine.SimInit.load(Unknown Source)
+	at uchicago.src.sim.engine.SimInit.load(Unknown Source)
+	at uchicago.src.sim.engine.SimInit.loadModel(Unknown Source)
+	at san.main.HsingMktModel.main(HsingMktModel.java:234)

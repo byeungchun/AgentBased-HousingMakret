@@ -1,0 +1,2 @@
+runs: 1
+ SocialIdxLgicF1 { set: 0.8 }
